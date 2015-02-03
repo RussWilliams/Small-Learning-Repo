@@ -1,0 +1,13 @@
+html {
+	background-color:rgba(100, 100, 100, 1);
+}
+
+body {
+	width: 80%;
+	margin: 10%;
+	background-color: rgba(220, 220, 220, 1);
+	font-size: 50px;
+	text-align: center;
+	text-transform: uppercase;
+}
+
